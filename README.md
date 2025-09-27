@@ -1,4 +1,4 @@
-# ToDoList_Project
+# BTodoList
 
 A mobile ToDo application built with **Flutter** for the front-end and **Node.js**, **TypeScript**, and **MongoDB** for the back-end.  
 The app allows users to manage tasks organized into categories like **Work**, **School**, and **Personal**. Users can perform CRUD operations on categories, lists, and tasks.
